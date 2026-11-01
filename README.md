@@ -56,15 +56,15 @@ Calculate project budget and cost performance.
 Automatically calculate EVM indicators.
 
 EVM Indicators:
-PV
-EV
-AC
-CPI
-SPI
-CV
-SV
-EAC
-ETC
+PV,
+EV,
+AC,
+CPI,
+SPI,
+CV,
+SV,
+EAC,
+ETC,
 VAC
 
 5. Quality Management and Risk Control
